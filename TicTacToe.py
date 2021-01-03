@@ -1,5 +1,9 @@
 from random import randrange
 
+'''
+    A simple TicTacToe program written in python language.
+'''
+
 board = [
         [1,2,3],
         [4,5,6],
